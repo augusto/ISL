@@ -1,0 +1,6 @@
+Advertising = "./data/Advertising.csv"
+Auto = "./data/Auto.csv"
+Auto_data = "./data/Auto.data"
+Boston = "./data/Boston.csv"
+Credit = "./data/Credit.csv"
+College = "./data/College.csv"
